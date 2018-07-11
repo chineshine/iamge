@@ -1,0 +1,2 @@
+From k8s.gcr.io/google_containers/pause-amd64:3.1
+MAINTAINER chineshine@outlook.com
